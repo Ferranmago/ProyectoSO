@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\migue\\Downloads\\VersionListaConectados\\VersionListaConectados\\InterfazJuego1\\InterfazJuego.csproj": {}
+    "C:\\Users\\migue\\Downloads\\VersionBiblio1121\\InterfazJuego1\\InterfazJuego.csproj": {}
   },
   "projects": {
-    "C:\\Users\\migue\\Downloads\\VersionListaConectados\\VersionListaConectados\\InterfazJuego1\\InterfazJuego.csproj": {
+    "C:\\Users\\migue\\Downloads\\VersionBiblio1121\\InterfazJuego1\\InterfazJuego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\Downloads\\VersionListaConectados\\VersionListaConectados\\InterfazJuego1\\InterfazJuego.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Downloads\\VersionBiblio1121\\InterfazJuego1\\InterfazJuego.csproj",
         "projectName": "InterfazJuego",
-        "projectPath": "C:\\Users\\migue\\Downloads\\VersionListaConectados\\VersionListaConectados\\InterfazJuego1\\InterfazJuego.csproj",
+        "projectPath": "C:\\Users\\migue\\Downloads\\VersionBiblio1121\\InterfazJuego1\\InterfazJuego.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\Downloads\\VersionListaConectados\\VersionListaConectados\\InterfazJuego1\\obj\\",
+        "outputPath": "C:\\Users\\migue\\Downloads\\VersionBiblio1121\\InterfazJuego1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",

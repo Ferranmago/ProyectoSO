@@ -73,22 +73,114 @@ C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.
 C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
 C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
 C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
-C:\Users\migue\Downloads\VersionListaConectados\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Properties.Resources.resources
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\migue\Downloads\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Properties.Resources.resources
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\marti\Downloads\VersionMiguelintento2\VersionMiguelintento2\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Properties.Resources.resources
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\migue\Downloads\VersionFerranPol\VersionFerranPol\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Properties.Resources.resources
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\migue\Downloads\VersionMiguel140\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Properties.Resources.resources
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\migue\Downloads\VersionBiblio1121\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
