@@ -1,0 +1,113 @@
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\Proyecto\Versiones\v1.2 Iniciar_Consultas\InterfazJuego\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\share\v1.3\v1.3\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\share\v1.3\v1.3\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\share\v1.3\v1.3\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\share\v1.3\v1.3\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\share\v1.3\v1.3\InterfazJuego\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\share\v1.3\v1.3\InterfazJuego\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\InterfazJuego (1)\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Pol\EETAC\QUATRI 6\SO\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.exe
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.deps.json
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.runtimeconfig.json
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.dll
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\bin\Debug\net6.0-windows\InterfazJuego.pdb
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.AssemblyReference.cache
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form1.resources
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form2.resources
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.Form3.resources
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.GenerateResource.cache
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfoInputs.cache
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.AssemblyInfo.cs
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.csproj.CoreCompileInputs.cache
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.dll
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\refint\InterfazJuego.dll
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.pdb
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\InterfazJuego.genruntimeconfig.cache
+C:\SO_PROYECTO\VersionListaConectados 26-06\VersionListaConectados\InterfazJuego1\obj\Debug\net6.0-windows\ref\InterfazJuego.dll
